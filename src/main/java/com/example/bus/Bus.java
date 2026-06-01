@@ -18,7 +18,7 @@ public class Bus {
         this.fuelType = fuelType;
     }
 
-    public String getBusID() {
+    public String getBusID()   {
         return busID;
     }
 
