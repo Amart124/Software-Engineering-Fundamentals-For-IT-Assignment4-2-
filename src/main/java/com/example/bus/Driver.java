@@ -10,11 +10,11 @@ public class Driver {
     private String birthdate;
 
     public Driver(String driverID,
-                  String name,
+                  String name, 
                   int experienceYears,
                   String licenseType,
                   String address,
-                  String birthdate) {
+                  String birthdate)  {
 
         this.driverID = driverID;
         this.name = name;
@@ -26,7 +26,7 @@ public class Driver {
 
     public String getDriverID() {
         return driverID;
-    }
+    } 
 
     public String getName() {
         return name;
