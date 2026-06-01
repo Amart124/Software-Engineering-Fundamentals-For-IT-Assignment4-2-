@@ -1,2 +1,2 @@
-23@@##45AB,John,5,Heavy,12|MainStreet|Melbourne|VIC|Australia,01-01-1995
+23@@##45AB,John,10,Heavy,12|MainStreet|Melbourne|VIC|Australia,01-01-1995
 34$$%%67CD,Mike,8,PublicTransport,55|KingStreet|Sydney|NSW|Australia,05-05-1990
